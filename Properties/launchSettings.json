@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ProjectForTesting": {
+      "commandName": "Project",
+      "workingDirectory": "E:\\SQL\\Testing",
+      "remoteDebugEnabled": true,
+      "sqlDebugging": true,
+      "remoteDebugMachine": "srv6413",
+      "nativeDebugging": true
+    }
+  }
+}
